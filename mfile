@@ -1,0 +1,8 @@
+{
+    "package" : "mudlet-nukefire-basic",
+    "title" : "Scripts for Nukefire handling MSDP events and UI vitals",
+    "description": "",
+    "author": "Norea Armozel",
+    "icon": "",
+    "outputFile" : false
+}
